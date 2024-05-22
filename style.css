@@ -60,7 +60,7 @@ section
     padding-left: auto;
     padding-right: auto;
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .gradient-title
@@ -69,3 +69,4 @@ section
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
