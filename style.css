@@ -43,7 +43,7 @@
 
 form
 {
-    width: 1000px;
+    width: 600px;
     height: auto;
     padding: 1em;
     border: 1px solid black;
@@ -61,4 +61,11 @@ section
     padding-right: auto;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+.gradient-title
+{
+    background: linear-gradient(to right, #ffc900, #FF8970);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
