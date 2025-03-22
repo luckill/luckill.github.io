@@ -25,7 +25,8 @@ section
     -webkit-text-fill-color: transparent;
 }
 
-.small-thumbnail {
+.small-thumbnail 
+{
     width: 250px;
     height: auto; 
 }
